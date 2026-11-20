@@ -1,0 +1,6 @@
+{
+  "name": "Dakshakriti",
+  "description": "Dakshakriti — Banking Matter OS & Universal LLB Startup Engine founded by Deepak Sharma. Structured banking dispute management, evidence preservation, date-sensitive Indian banking law research, RBI Ombudsman 2026 workflow, secure client–advocate collaboration, and LLB syllabus-to-startup intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
